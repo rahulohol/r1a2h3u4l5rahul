@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1a2h3u4l5rahul" alt="r1a2h3u4l5rahul" /></a> </p>
 <table  align=center>
   <tr>
     <td align=center> <img src="http://github-readme-streak-stats.herokuapp.com?user=r1a2h3u4l5rahul&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D"  height=300   width=500 ></td>
