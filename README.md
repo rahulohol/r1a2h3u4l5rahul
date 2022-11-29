@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     
   </tr>
   <tr>
-  <td align=center> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1a2h3u4l5rahul&show_icons=true&locale=en&layout=compact" alt="mindofskk" /></td>
+  <td align=center> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1a2h3u4l5rahul&show_icons=true&locale=en&layout=compact" alt="mindofskk" ></td>
    <td align=center>  <img src="https://activity-graph.herokuapp.com/graph?username=r1a2h3u4l5rahul&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true"   width=500  height=300></td>
    
   </tr>
