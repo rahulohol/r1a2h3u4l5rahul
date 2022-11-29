@@ -2,6 +2,7 @@
 <!-- # Hi 👋 i'm Rahul Ohol  -->
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A Full stack developer</h3>
+
 <!--
 **r1a2h3u4l5rahul/r1a2h3u4l5rahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
