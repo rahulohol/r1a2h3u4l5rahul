@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     
   </tr>
   <tr>
-  <td align=center>  <img src="https://camo.githubusercontent.com/491294d8860bf803756b2f7451e72904323f79faff57f553fbbb77d35e647195/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7375466937383637266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137"   width=500  height=300></td>
+  <td align=center> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1a2h3u4l5rahul&show_icons=true&locale=en&layout=compact" alt="mindofskk" /></td>
    <td align=center>  <img src="https://activity-graph.herokuapp.com/graph?username=r1a2h3u4l5rahul&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true"   width=500  height=300></td>
    
   </tr>
