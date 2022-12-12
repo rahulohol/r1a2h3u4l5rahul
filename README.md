@@ -1,23 +1,39 @@
 
-<!-- # Hi 👋 i'm Rahul Ohol  -->
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A Full stack developer</h3>
-<hr/>
+<h1 align="center">Hi 👋, I'm Rahul Ohol</h1>
+<h4 align="center">A passionate Full-Stack Web Developer who loves to create smart and highly polished interfaces for the web 💻. I love learning new things every day and keeping up with new technologies. My interests range from technology to design.</h4>
 
-<!--
-**r1a2h3u4l5rahul/r1a2h3u4l5rahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align= "center">
+<img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
+<img src="https://img.shields.io/badge/E-Express-black"/>
+<img src="https://img.shields.io/badge/R-React-skyblue"/>
+<img src="https://img.shields.io/badge/N-Node-green"/>
+<img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!---
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/akshit3010)
+<br/>
 -->
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r1a2h3u4l5rahul&label=Profile%20views&color=0e75b6&style=flat" alt="akshitrana" /> </p>
+
+- 🌍 I'm based in **Sangamner, Maharashtra**
+
+- 🌱 I’m currently learning **Everything**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
+
+- 📫 How to reach me **rahulohol01@gmail.com**
+
+- 👨‍💻 All my projects are available at my [Portfolio](https://r1a2h3u4l5rahul.github.io/)
+
+- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+
+<br/>
+
 ## TECH STACK :
 <table  align=center>
   <tr>
@@ -36,45 +52,23 @@ Here are some ideas to get you started:
 </table>
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
+<h3 align="left">Github Stats:</h3>
+<hr>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1a2h3u4l5rahul&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117,000000,130F40" alt="akshit3010" /></p>
 
+<p align="center">
+    <a href="https://github.com/r1a2h3u4l5rahul/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=r1a2h3u4l5rahul&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/r1a2h3u4l5rahul/github-readme-stats"><img alt="Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=r1a2h3u4l5rahul&show_icons=true&count_private=true&show_owner=ture&theme=react&hide_border=true&bg_color=0,000000,190F40,190F40" /></a>
+    </p>
+ 
+<br/>
 
-
-
-<!-- )](https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) -->
-<!-- )](https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) -->
-
-<table  align=center>
-  <tr>
-    <td align=center> <img src="http://github-readme-streak-stats.herokuapp.com?user=r1a2h3u4l5rahul&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D"  height=300   width=500 ></td>
-    
-  <td align=center> 
-    <img src="https://github-readme-stats.vercel.app/api?username=r1a2h3u4l5rahul&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Loading"height=300 width=500/>
-    </td>
-    
-  </tr>
-  <tr>
-  <td align=center> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1a2h3u4l5rahul&show_icons=true&locale=en&layout=compact" alt="mindofskk" ></td>
-   <td align=center>  <img src="https://activity-graph.herokuapp.com/graph?username=r1a2h3u4l5rahul&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true"   width=500  height=300></td>
-   
-  </tr>
-</table>
-
-<!-- 
-[![](https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Therobo77&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=Therobo77&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)
- -->
-  
---------------------------------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-<!-- <img src='' /> -->
-<!-- <img src="https://raw.githubusercontent.com/alok722/alok722/master/images/gif/Developer.gif " /> -->
 
 
